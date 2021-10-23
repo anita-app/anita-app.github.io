@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635005707973,
+  "timestamp": 1635006179469,
   "index": "/app/index.html",
   "assetGroups": [
     {
@@ -278,8 +278,8 @@
     "/app/assets/icons/windows11/Wide310x150Logo.scale-400.png": "8856a4c8b39dd3fa7f519fd44b7b0e70e009d777",
     "/app/assets/logo/logo_circle.svg": "7612618ce57e38c0fd4cb589ea26420c7b601a01",
     "/app/assets/logo/logo_square.svg": "ea749ead1f1f195a7cf3e9cddfbcd214cf1fcf28",
-    "/app/assets/manifest.json": "e3b647829ce1372445e0a9af1b8b01aebf604a8d",
-    "/app/index.html": "ad5af94a270f47de9d5c14778fba5512e2f11fdf"
+    "/app/assets/manifest.json": "a0a9f560ca8730ead323070e189eb0466649261b",
+    "/app/index.html": "506584a9340037009290a9d4f050d1d9ee04e880"
   },
   "navigationUrls": [
     {
