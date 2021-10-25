@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635006753016,
+  "timestamp": 1635181112393,
   "index": "/app/index.html",
   "assetGroups": [
     {
@@ -279,7 +279,7 @@
     "/app/assets/logo/logo_circle.svg": "7612618ce57e38c0fd4cb589ea26420c7b601a01",
     "/app/assets/logo/logo_square.svg": "ea749ead1f1f195a7cf3e9cddfbcd214cf1fcf28",
     "/app/assets/manifest.json": "a0a9f560ca8730ead323070e189eb0466649261b",
-    "/app/index.html": "506584a9340037009290a9d4f050d1d9ee04e880"
+    "/app/index.html": "053bc1b8f82e8920fb1a104e63ff21d647714c12"
   },
   "navigationUrls": [
     {
