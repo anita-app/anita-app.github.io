@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635239248257,
+  "timestamp": 1635260970869,
   "index": "/app/app/index.html",
   "assetGroups": [
     {
@@ -12,10 +12,10 @@
       },
       "urls": [
         "/app/index.html",
-        "/app/main.6c79dc8189eaed035ce7.js",
+        "/app/main.ce993317884857996850.js",
         "/app/polyfills.d0b54dfa67435b8ae9f2.js",
         "/app/runtime.62c627668fc5e8598b37.js",
-        "/app/styles.288b05d7f692a61b9eee.css"
+        "/app/styles.e317c2314fb73f0df663.css"
       ],
       "patterns": []
     },
@@ -32,11 +32,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/app/index.html": "053bc1b8f82e8920fb1a104e63ff21d647714c12",
-    "/app/main.6c79dc8189eaed035ce7.js": "bb76e39b15292e0f9bca64f4c3320e6ce497173a",
+    "/app/index.html": "a64664fd787bcebe2c132d413b801383397f3a41",
+    "/app/main.ce993317884857996850.js": "e112f0ff9998420cbb14c2d319961e6e317deb66",
     "/app/polyfills.d0b54dfa67435b8ae9f2.js": "4d362ecc29ee985f5c94e0c8b5611675e3720a10",
     "/app/runtime.62c627668fc5e8598b37.js": "2ce24891b709bf1822207ebe840ce2fdf3d0280d",
-    "/app/styles.288b05d7f692a61b9eee.css": "d1e6a53aa2711d7bcac10ce2949094c79743c2aa"
+    "/app/styles.e317c2314fb73f0df663.css": "846691ef37fe79e37c3139ac9c5d7955bbbccdda"
   },
   "navigationUrls": [
     {
