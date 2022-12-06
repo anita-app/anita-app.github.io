@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/app/static/css/main.1b8d6616.css",
-    "main.js": "/app/static/js/main.3b421e57.js",
+    "main.js": "/app/static/js/main.dc35920f.js",
     "static/js/738.ce4c5810.chunk.js": "/app/static/js/738.ce4c5810.chunk.js",
     "static/js/372.99715bce.chunk.js": "/app/static/js/372.99715bce.chunk.js",
     "static/js/856.31b5e267.chunk.js": "/app/static/js/856.31b5e267.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/272.53cf8a9d.chunk.js": "/app/static/js/272.53cf8a9d.chunk.js",
     "static/js/841.75d8a9b0.chunk.js": "/app/static/js/841.75d8a9b0.chunk.js",
     "static/js/186.37866241.chunk.js": "/app/static/js/186.37866241.chunk.js",
-    "static/js/89.02846425.chunk.js": "/app/static/js/89.02846425.chunk.js",
+    "static/js/89.2ea35629.chunk.js": "/app/static/js/89.2ea35629.chunk.js",
     "static/js/60.d10a5730.chunk.js": "/app/static/js/60.d10a5730.chunk.js",
     "service-worker.js": "/app/service-worker.js",
     "index.html": "/app/index.html",
     "main.1b8d6616.css.map": "/app/static/css/main.1b8d6616.css.map",
-    "main.3b421e57.js.map": "/app/static/js/main.3b421e57.js.map",
+    "main.dc35920f.js.map": "/app/static/js/main.dc35920f.js.map",
     "738.ce4c5810.chunk.js.map": "/app/static/js/738.ce4c5810.chunk.js.map",
     "372.99715bce.chunk.js.map": "/app/static/js/372.99715bce.chunk.js.map",
     "856.31b5e267.chunk.js.map": "/app/static/js/856.31b5e267.chunk.js.map",
@@ -24,11 +24,11 @@
     "272.53cf8a9d.chunk.js.map": "/app/static/js/272.53cf8a9d.chunk.js.map",
     "841.75d8a9b0.chunk.js.map": "/app/static/js/841.75d8a9b0.chunk.js.map",
     "186.37866241.chunk.js.map": "/app/static/js/186.37866241.chunk.js.map",
-    "89.02846425.chunk.js.map": "/app/static/js/89.02846425.chunk.js.map",
+    "89.2ea35629.chunk.js.map": "/app/static/js/89.2ea35629.chunk.js.map",
     "60.d10a5730.chunk.js.map": "/app/static/js/60.d10a5730.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b8d6616.css",
-    "static/js/main.3b421e57.js"
+    "static/js/main.dc35920f.js"
   ]
 }
