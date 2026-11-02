@@ -2,6 +2,6 @@
   "name": "anita-app.github.io",
   "private": true,
   "description": "Published files of anita-app.com. appVersion (the app at /v1/) and landingVersion are the published versions, written by the deploy workflow of anita-app/anita (.github/DEPLOYMENT.md).",
-  "appVersion": "0.0.0",
+  "appVersion": "1.0.0",
   "landingVersion": "0.21.0"
 }
